@@ -19,7 +19,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<!-- 스프링 데이터 JPA 버전 -->
-		<spring-data-jpa.version>1.8.0.RELEASE</spring-data-jpa.version>
+		<spring-data-jpa.version>1.11.23.RELEASE</spring-data-jpa.version>
 
 		<!-- QueryDSL -->
 		<querydsl.version>3.6.3</querydsl.version>
