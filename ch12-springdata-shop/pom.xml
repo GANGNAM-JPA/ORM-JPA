@@ -39,7 +39,7 @@
 		<logback.version>1.1.1</logback.version>
 		<slf4j.version>1.7.6</slf4j.version>
 		<!-- 테스트 버전 -->
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 
 	</properties>
 
